@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  font-family: Lucida Console;
+  color: #c0c0c0;
+  background-color: #557d91;
+}
+
+h1 {
+  font-family: Helvetica;
+  color: #5d0707;
+}
+
+p {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
